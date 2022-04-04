@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707066082772",
+    "project_id": "meetdelivery-modelo",
+    "storage_bucket": "meetdelivery-modelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707066082772:android:e1397eef343e8d6f5a5241",
+        "android_client_info": {
+          "package_name": "br.com.meetway.meetdelivery.meetdelivery_modelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707066082772-mfqechlkf27kg082e3tj4rfq7mloal8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWXd6WLNzGVL2PfhzjXfaPLq-1fblu78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707066082772-mfqechlkf27kg082e3tj4rfq7mloal8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
